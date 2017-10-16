@@ -1,13 +1,3 @@
-"""
-Image Tool v2
-
-TODO
-+ Load Igor binary waves
-+ Load HDF5 files
-+ Button for transposing data
-+ Axes on plots
-+ StartX and DeltaX
-"""
 
 import os
 import sys
