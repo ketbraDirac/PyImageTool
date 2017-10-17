@@ -14,7 +14,7 @@ class ImageTool(QtWidgets.QMainWindow):
         super(ImageTool, self).__init__(parent)
 
         # Window title
-        self.setWindowTitle("Image Tool v2")
+        self.setWindowTitle("Image Tool")
         self.setGeometry(50, 50, 800, 600)
 
         # Menu bar
